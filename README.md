@@ -51,7 +51,7 @@ Welcome to the **Interactive Treasure Hunt Website**! 🗺️✨ This is a multi
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Lily0335/interactive-treasure-hunt.git
+   git clone https://github.com/Lily0335/treasure-hunt-html
    ```  
 
 
